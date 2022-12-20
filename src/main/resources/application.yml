@@ -1,0 +1,15 @@
+server:
+  port: 9000  # 9000번 포트로 실행
+
+spring:
+  application:
+    name: demo
+
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://harry-db.cbgoqloeisrc.ap-northeast-2.rds.amazonaws.com/bunjang
+    username: harry
+    password: Rising1126!
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 30
