@@ -47,6 +47,14 @@
 .idea/**/gradle.xml
 .idea/**/libraries
 
+# sensitive infomation for git commit public
+# DB access information
+src/main/resources/application.yml
+# encryption information
+src/main/java/com/example/demo/utils/AES128.java
+# secret key for jwt
+src/main/java/com/example/demo/config/secret/Secret.java
+
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
 # since they will be recreated, and may cause churn.  Uncomment if using
