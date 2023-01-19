@@ -136,6 +136,10 @@ API 명세서 보기
 => @Transactional(readOnly = true) 이 어노테이션을 사용한 경우 insert, update sql문 에러가 발생
 => @Transactional(readOnly = false)
 
+<br>
+<br>
+<br>
+<br>
 
 ※더 자세히 보고 싶다면 아래 링크를 참고해주세요※
 - ERD 설계
