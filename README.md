@@ -136,4 +136,13 @@ API 명세서 보기
 => @Transactional(readOnly = true) 이 어노테이션을 사용한 경우 insert, update sql문 에러가 발생
 => @Transactional(readOnly = false)
 
-
+=====================================================================================================
+더 자세히 보고 싶다면
+아래 링크를 참고해주세요
+- ERD 설계
+https://aquerytool.com/aquerymain/index/?rurl=927fb142-9ea0-4704-baa6-84f52e940f5b&
+Password : 0g7o44
+- API 명세서 (postman 결과 화면)
+https://docs.google.com/spreadsheets/d/1q-2XRtYMsKd2jgJ1K1cO_WJCWn2J6Vf3U0Yj7O7nhBU/edit#gid=0
+- 기술 벨로그
+https://velog.io/@dadodo
