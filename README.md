@@ -1,5 +1,6 @@
 # 번개장터 서버
 번개장터 클론 서버 프로젝트입니다.
+(현재 AWS 서버 프리티어 기간 만료로 인해 서버 중단된 상태입니다)
 
 ## ✨프로젝트 기간
 2022.11.26 ~ 2022.12.09
@@ -31,10 +32,6 @@
 - SDK : 11
 - Proxy 서버 적용
 - 도메인 주소에 SSL 적용
-
-## ✨ERD 설계
-URL : https://aquerytool.com/aquerymain/index/?rurl=927fb142-9ea0-4704-baa6-84f52e940f5b&
-Password : 0g7o44
 
 ## ✨API 명세서 리스트업
 ### 도메인별로 작성
@@ -142,9 +139,6 @@ API 명세서 보기
 <br>
 
 ※더 자세히 보고 싶다면 아래 링크를 참고해주세요※
-- ERD 설계
-https://aquerytool.com/aquerymain/index/?rurl=927fb142-9ea0-4704-baa6-84f52e940f5b&
-Password : 0g7o44
 - API 명세서 (postman 결과 화면)
 https://docs.google.com/spreadsheets/d/1q-2XRtYMsKd2jgJ1K1cO_WJCWn2J6Vf3U0Yj7O7nhBU/edit#gid=0
 - 기술 벨로그
